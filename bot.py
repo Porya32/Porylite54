@@ -14,7 +14,7 @@ from splusthon.tl.functions.channels import (
 )
 
 # ================== تنظیمات ==================
-BOT_TOKEN = "69646597:5BwDiBYEBPSWMNYicDJNvmuIOJhj_e5q6V8"
+BOT_TOKEN = "70038773:DSmZd7Ph7zhgfjRN1_CFoFVLyrpJA3FGMvo"
 BASE_URL = f"https://api.splus.ir/bot{BOT_TOKEN}"
 
 # لینک گروه ثابت
