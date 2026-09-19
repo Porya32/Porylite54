@@ -1,4 +1,0 @@
-framework: python
-install: pip install -r requirements.txt
-start: python bot.py
-port: 8000
